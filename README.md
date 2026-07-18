@@ -2,7 +2,7 @@
 
 This tool was created to help with managing downloaded media for ES-DE Frontend. Version 1.1 adds interactive configuration, immediate cleanup, safer temporary output files, WebP validation, running storage-savings tracking, and additional protections against accidental data loss.
 
-**> [!WARNING]**
+> [!IMPORTANT]
 > Version 1.1 can permanently delete PNG, JPG, JPEG, and WebP files during cleanup. Deleted files bypass the Recycle Bin. Back up important files before running the script.
 
 **### ## Changes from v1.0**
