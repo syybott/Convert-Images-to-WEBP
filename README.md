@@ -1,4 +1,5 @@
 **### # Convert Images to WebP v1.1**
+Tool was created to help with managing downloaded media for ES-DE Frontend.
 
 Version 1.1 adds interactive configuration, immediate cleanup, safer temporary output files, WebP validation, running storage-savings tracking, and additional protections against accidental data loss.
 
